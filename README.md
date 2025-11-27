@@ -15,7 +15,7 @@ Sou um desenvolvedor entusiasmado, focado em resolver problemas e aprender novas
 
 * 🔭 **Atualmente:** Trabalhando em projetos acadêmicos e pessoais de Back-end.
 * 🌱 **Aprendendo:** Aprofundando em arquitetura de microsserviços e Cloud.
-* 📫 **Contato:** [LinkedIn](LINK_DO_SEU_LINKEDIN) ou email: `seuemail@exemplo.com`
+* 📫 **Contato:** email: `guilhermehenriquebuenbo3005@gmail.com`
 
 ---
 
