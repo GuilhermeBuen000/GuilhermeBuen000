@@ -1,53 +1,29 @@
-# Olá, Mundo! Eu sou [guilherme Bueno] 👋
+# Olá, eu sou Guilherme Bueno! 👋
+### 🎓 Estudante de Engenharia de Software
 
-### 🎓 Estudante de [Engenharia de Software] | Desenvolvedor Entusiasmado
-
----
-
-## 💡 O Que Estou Fazendo Agora
-
-| Emoji | Descrição | Detalhe |
-| :---: | :--- | :--- |
-| 🔭 | **Trabalhando Atualmente:** | Desenvolvendo um **[Nome do Projeto]** para [Resolver o problema X / Aplicar a tecnologia Y]. |
-| 🌱 | **Aprendendo:** | Mergulhando em **[Tecnologia/Framework]** e aprimorando minhas habilidades em **[Conceito/Linguagem]**. |
-| 👯 | **Colaboração:** | Aberto a contribuir em projetos que envolvam **[Área de Interesse, e.g., Acessibilidade Web ou IoT]**. |
-| 💬 | **Me Pergunte Sobre:** | **[Seu tópico forte]**, **[Seu hobby tech]** e dicas de **[Recurso de estudo, e.g., Cursos, Livros]**. |
-| 📫 | **Contato:** | Me encontre no [LinkedIn](LINK_DO_SEU_LINKEDIN) ou por e-mail: SeuEmail@exemplo.com |
-| ⚡ | **Curiosidade:** | [Um fato divertido ou surpreendente sobre você, e.g., Meu primeiro código foi em Scratch!] |
+Sou um desenvolvedor entusiasmado, focado em resolver problemas e aprender novas tecnologias. Atualmente estou aprimorando meus conhecimentos em desenvolvimento e arquitetura de software.
 
 ---
 
-## 🛠️ Minhas Habilidades Técnicas
+### 🛠️ Tech Stack & Ferramentas
 
-Aqui estão algumas das ferramentas e tecnologias com as quais tenho trabalhado:
-
-### Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Frameworks & Bibliotecas
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Ferramentas & Plataformas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 📂 Alguns Projetos em Destaque
+### 🚀 Sobre mim
 
-| Projeto | Tecnologia Principal | Descrição |
-| :--- | :--- | :--- |
-| [Nome do Projeto 1](LINK_PARA_O_REPOSITORIO) | React, Firebase | Uma aplicação de lista de tarefas com autenticação e sincronização em tempo real. |
-| [Nome do Projeto 2](LINK_PARA_O_REPOSITORIO) | Python, Pandas | Script de análise de dados para um hackathon, gerando visualizações interativas. |
-| [Nome do Projeto 3](LINK_PARA_O_REPOSITORIO) | Node.js, Express | API RESTful simples para gerenciamento de usuários. |
+* 🔭 **Atualmente:** Trabalhando em projetos acadêmicos e pessoais de Back-end.
+* 🌱 **Aprendendo:** Aprofundando em arquitetura de microsserviços e Cloud.
+* 📫 **Contato:** [LinkedIn](LINK_DO_SEU_LINKEDIN) ou email: `seuemail@exemplo.com`
 
 ---
 
-## 📈 Estatísticas do Meu GitHub
+### 📊 Minhas Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&hide_border=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dracula&hide_border=true)
